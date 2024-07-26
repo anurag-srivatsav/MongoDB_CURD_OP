@@ -7,7 +7,7 @@ A Python script for basic user management operations on a MongoDB database. Perf
 - :heavy_check_mark: **Create**: Add a new user to the database.
 - :mag: **Find**: Check if a user exists in the database.
 - :pencil: **Update**: Update the name or password of an existing user.
-- :trash: **Delete**: Remove a user from the database.
+- 🗑️ **Delete**: Remove a user from the database.
 
 ## Prerequisites
 
