@@ -24,7 +24,7 @@ Before running the script, ensure you have the following:
    git clone https://github.com/yourusername/MongoDB_CURD-PY-.git
    cd mongo-user-management
 
-To install the required packages, use the command 
+2. **To install the required packages, use the command**:
 
 ```python
 pip install pymongo
