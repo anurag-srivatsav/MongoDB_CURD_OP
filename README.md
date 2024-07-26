@@ -26,9 +26,9 @@ Before running the script, ensure you have the following:
 
 2. **To install the required packages, use the command**:
 
-```python
-pip install pymongo
+   ```python
+   pip install pymongo
 
-python mongoProj.py
+   python mongoProj.py
 
 
